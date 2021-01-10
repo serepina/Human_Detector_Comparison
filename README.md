@@ -1,6 +1,6 @@
 # Human_Detector_Comparison
 
-OpenCV, Darknet, Tensorflow model zoo, MMDetection
+다양한 human detection model들을 OpenCV, Darknet, Tensorflow model zoo, MMDetection, Detectron2을 이용해 구현
 
 ## Darknet
 참고링크
@@ -11,3 +11,8 @@ OpenCV, Darknet, Tensorflow model zoo, MMDetection
 참고링크
 + https://github.com/open-mmlab/mmdetection
 + https://github.com/open-mmlab/mmdetection/blob/master/demo/MMDet_Tutorial.ipynb
+
+## Detectron2
+참고링크
++ https://github.com/facebookresearch/detectron2/blob/master/MODEL_ZOO.md
++ https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5#scrollTo=tjbUIhSxUdm_
